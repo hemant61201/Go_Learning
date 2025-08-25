@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Simple_Programs/packages/helper"
+	"Simple_Programs/Day3/packages/helper"
 	"fmt"
 	"strings"
 )
