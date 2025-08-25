@@ -1,0 +1,5 @@
+-action=list
+-action=query -level=INFO
+-action=add -level=WARNING -msg="Disk almost full"
+-action=delete -index=2
+-action=sort -by=level/time
