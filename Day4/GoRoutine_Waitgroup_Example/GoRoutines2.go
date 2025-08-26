@@ -17,6 +17,7 @@ func alphabets() {
 		fmt.Printf("%c ", i)
 	}
 }
+
 func main() {
 	go numbers()
 	go alphabets()
